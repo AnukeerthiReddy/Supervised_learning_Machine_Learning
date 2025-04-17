@@ -6,5 +6,5 @@ We aim to accomplish the follwowing through our study:
     * Preferable select the best performing model based on the probability to best identify the customer who will churn
     * Explain the important features through SHAP(SHapely Additive exPlanations) Values
     * Deploy the MLmodel using Streamlit for active usage by the consumers.
-  
+  ![SHAP Feature Importance](SHAP_featureimportance.png)  
   
